@@ -1,7 +1,7 @@
 # Vue 3 Frontend Portfolio - Animation Examples
 
 A comprehensive showcase of modern frontend technologies including **SVG Animations**, **GSAP**, **Canvas API**, and **Three.js** built with Vue 3, TypeScript, and Vite.
-
+### [Demo link](https://andrii-pinchuk.github.io/vue-examples-svg-animations-gsap/)
 ## 🚀 Features
 
 ### 1. **SVG Animations** 

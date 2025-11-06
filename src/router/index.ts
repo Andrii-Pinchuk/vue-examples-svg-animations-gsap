@@ -30,7 +30,7 @@ const routes: RouteRecordRaw[] = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/vue-examples-svg-animations-gsap/'),
   routes,
   scrollBehavior() {
     return { top: 0, left: 0 }
